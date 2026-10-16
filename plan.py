@@ -27,3 +27,4 @@ class Plan:
             anuncios = "sin anuncios"   
         return f"Plan: {self.nombre}, Precio: ${self.precio}, {anuncios}"
     
+    
